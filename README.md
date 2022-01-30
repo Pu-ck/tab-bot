@@ -9,8 +9,8 @@ Discord bot made in Python and designed to find requested Songsterr tabulature. 
 </p>
 
 <p float="left">
-<img src = screenshots/img_3.png width=350 />
 <img src = screenshots/img_2.png width=350 />
+<img src = screenshots/img_3.png width=350 />
 </p>
 
 <p float="left">
